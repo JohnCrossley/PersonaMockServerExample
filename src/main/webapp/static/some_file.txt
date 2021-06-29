@@ -1,0 +1,1 @@
+I'm just a text file in a folder masked out in passthrough.properties
