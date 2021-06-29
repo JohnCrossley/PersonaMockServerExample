@@ -1,10 +1,10 @@
-#Persona Mock Server Example Project
+# Persona Mock Server Example Project
 
 A sample project showing various use cases of the [Persona Mock Server](https://github.com/JohnCrossley/PersonaMockServer).
 
 Designed to have minimal setup so comes bundled with Jetty.  But it can run on any other J2EE container.
 
-##TL;DR;
+## TL;DR;
 
 ```
 # build source and download dependencies
