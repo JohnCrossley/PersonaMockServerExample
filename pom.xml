@@ -38,7 +38,7 @@
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jettyVersion>9.2.6.v20141205</jettyVersion>
-        <kotlin.version>1.3.0</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
 
     </properties>
 
